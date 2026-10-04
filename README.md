@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaikh Amin</h1>
+<h1 align="center">Hi 👋🏻, I'm Shaikh Amin</h1>
 
 <h3 align="center">Student | Aspiring Python Developer</h3>
 
@@ -42,5 +42,5 @@ Currently learning and building projects.
 ---
 
 <p align="center">
-  Thanks for visiting my profile! 👋
+  Thanks for visiting my profile! 👋🏻
 </p>
